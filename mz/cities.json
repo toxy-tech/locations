@@ -1,0 +1,95 @@
+[
+    {
+        "name": "Cabo Delgado",
+        "cities": [
+            "Chiure",
+            "Mocímboa",
+            "Montepuez",
+            "Pemba"
+        ]
+    },
+    {
+        "name": "Gaza",
+        "cities": [
+            "Chibuto",
+            "Chokwé",
+            "Macia",
+            "Xai-Xai"
+        ]
+    },
+    {
+        "name": "Inhambane",
+        "cities": [
+            "Inhambane",
+            "Maxixe"
+        ]
+    },
+    {
+        "name": "Manica",
+        "cities": [
+            "Chimoio"
+        ]
+    },
+    {
+        "name": "Maputo",
+        "cities": [
+            "Boane District",
+            "Concelho de Matola",
+            "Magude District",
+            "Manhica",
+            "Marracuene District",
+            "Matola",
+            "Matutiune District",
+            "Moamba District",
+            "Namaacha District",
+            "Ressano Garcia"
+        ]
+    },
+    {
+        "name": "Maputo",
+        "cities": [
+            "KaTembe",
+            "Maputo"
+        ]
+    },
+    {
+        "name": "Nampula",
+        "cities": [
+            "António Enes",
+            "Ilha de Moçambique",
+            "Mutuáli",
+            "Nacala",
+            "Nampula"
+        ]
+    },
+    {
+        "name": "Niassa",
+        "cities": [
+            "Cuamba",
+            "Lichinga",
+            "Mandimba"
+        ]
+    },
+    {
+        "name": "Sofala",
+        "cities": [
+            "Beira",
+            "Dondo",
+            "Nhamatanda District"
+        ]
+    },
+    {
+        "name": "Tete",
+        "cities": [
+            "Tete"
+        ]
+    },
+    {
+        "name": "Zambezia",
+        "cities": [
+            "Alto Molócuè",
+            "Chinde",
+            "Quelimane"
+        ]
+    }
+]

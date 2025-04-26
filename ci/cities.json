@@ -1,0 +1,223 @@
+[
+    {
+        "name": "Abidjan",
+        "cities": [
+            "Abidjan",
+            "Abobo",
+            "Anyama",
+            "Bingerville"
+        ]
+    },
+    {
+        "name": "Agnéby",
+        "cities": []
+    },
+    {
+        "name": "Bafing",
+        "cities": []
+    },
+    {
+        "name": "Bas-Sassandra",
+        "cities": [
+            "Gbôklé",
+            "Nawa",
+            "San-Pédro",
+            "Sassandra",
+            "Tabou"
+        ]
+    },
+    {
+        "name": "Bas-Sassandra",
+        "cities": []
+    },
+    {
+        "name": "Comoé",
+        "cities": [
+            "Abengourou",
+            "Aboisso",
+            "Adiaké",
+            "Agnibilékrou",
+            "Ayamé",
+            "Bonoua",
+            "Grand-Bassam",
+            "Indénié-Djuablin",
+            "Sud-Comoé"
+        ]
+    },
+    {
+        "name": "Denguélé",
+        "cities": [
+            "Folon",
+            "Kabadougou",
+            "Odienné"
+        ]
+    },
+    {
+        "name": "Denguélé",
+        "cities": []
+    },
+    {
+        "name": "Dix-Huit Montagnes",
+        "cities": [
+            "Bangolo",
+            "Biankouma",
+            "Cavally",
+            "Danané",
+            "Duekoué",
+            "Guémon",
+            "Guiglo",
+            "Man",
+            "Tonkpi",
+            "Toulépleu Gueré"
+        ]
+    },
+    {
+        "name": "Fromager",
+        "cities": []
+    },
+    {
+        "name": "Gôh-Djiboua",
+        "cities": [
+            "Divo",
+            "Gagnoa",
+            "Gôh",
+            "Guibéroua",
+            "Lakota",
+            "Lôh-Djiboua",
+            "Oumé"
+        ]
+    },
+    {
+        "name": "Haut-Sassandra",
+        "cities": []
+    },
+    {
+        "name": "Lacs",
+        "cities": [
+            "Arrah",
+            "Bélier",
+            "Bocanda",
+            "Bongouanou",
+            "Daoukro",
+            "Dimbokro",
+            "Iffou",
+            "Moronou",
+            "N'Zi",
+            "Toumodi",
+            "Yamoussoukro"
+        ]
+    },
+    {
+        "name": "Lacs",
+        "cities": []
+    },
+    {
+        "name": "Lagunes",
+        "cities": [
+            "Adzopé",
+            "Affery",
+            "Agboville",
+            "Agnéby-Tiassa",
+            "Akoupé",
+            "Dabou",
+            "Grand-Lahou",
+            "Grands-Ponts",
+            "Tiassalé"
+        ]
+    },
+    {
+        "name": "Lagunes",
+        "cities": []
+    },
+    {
+        "name": "Marahoué",
+        "cities": []
+    },
+    {
+        "name": "Montagnes",
+        "cities": []
+    },
+    {
+        "name": "Moyen-Cavally",
+        "cities": []
+    },
+    {
+        "name": "Moyen-Comoé",
+        "cities": []
+    },
+    {
+        "name": "N'zi-Comoé",
+        "cities": []
+    },
+    {
+        "name": "Sassandra-Marahoué",
+        "cities": [
+            "Bouaflé",
+            "Daloa",
+            "Haut-Sassandra",
+            "Issia",
+            "Marahoué",
+            "Vavoua",
+            "Zuénoula"
+        ]
+    },
+    {
+        "name": "Savanes",
+        "cities": []
+    },
+    {
+        "name": "Sud-Bandama",
+        "cities": []
+    },
+    {
+        "name": "Sud-Comoé",
+        "cities": []
+    },
+    {
+        "name": "Vallée du Bandama",
+        "cities": [
+            "Béoumi",
+            "Botro",
+            "Bouaké",
+            "Dabakala",
+            "Gbêkê",
+            "Hambol",
+            "Katiola",
+            "Sakassou"
+        ]
+    },
+    {
+        "name": "Vallée du Bandama",
+        "cities": []
+    },
+    {
+        "name": "Woroba",
+        "cities": [
+            "Bafing",
+            "Béré",
+            "Mankono",
+            "Séguéla",
+            "Touba",
+            "Worodougou"
+        ]
+    },
+    {
+        "name": "Worodougou",
+        "cities": []
+    },
+    {
+        "name": "Yamoussoukro",
+        "cities": []
+    },
+    {
+        "name": "Zanzan",
+        "cities": [
+            "Bondoukou",
+            "Bouna",
+            "Bounkani",
+            "Gontougo",
+            "Sinfra",
+            "Tanda"
+        ]
+    }
+]

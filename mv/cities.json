@@ -1,0 +1,140 @@
+[
+    {
+        "name": "Addu",
+        "cities": [
+            "Hithadhoo",
+            "Meedhoo"
+        ]
+    },
+    {
+        "name": "Alif Alif",
+        "cities": []
+    },
+    {
+        "name": "Alif Dhaal",
+        "cities": []
+    },
+    {
+        "name": "Central",
+        "cities": []
+    },
+    {
+        "name": "Dhaalu",
+        "cities": [
+            "Kudahuvadhoo"
+        ]
+    },
+    {
+        "name": "Faafu",
+        "cities": []
+    },
+    {
+        "name": "Gaafu Alif",
+        "cities": [
+            "Viligili"
+        ]
+    },
+    {
+        "name": "Gaafu Dhaalu",
+        "cities": [
+            "Thinadhoo"
+        ]
+    },
+    {
+        "name": "Gnaviyani",
+        "cities": [
+            "Fuvahmulah"
+        ]
+    },
+    {
+        "name": "Haa Alif",
+        "cities": [
+            "Dhidhdhoo"
+        ]
+    },
+    {
+        "name": "Haa Dhaalu",
+        "cities": [
+            "Kulhudhuffushi"
+        ]
+    },
+    {
+        "name": "Kaafu",
+        "cities": [
+            "Guraidhoo",
+            "Hulhumale",
+            "Maafushi",
+            "Male"
+        ]
+    },
+    {
+        "name": "Laamu",
+        "cities": [
+            "Fonadhoo"
+        ]
+    },
+    {
+        "name": "Lhaviyani",
+        "cities": [
+            "Naifaru"
+        ]
+    },
+    {
+        "name": "Malé",
+        "cities": []
+    },
+    {
+        "name": "Meemu",
+        "cities": [
+            "Muli"
+        ]
+    },
+    {
+        "name": "Noonu",
+        "cities": [
+            "Manadhoo"
+        ]
+    },
+    {
+        "name": "North Central",
+        "cities": []
+    },
+    {
+        "name": "Raa",
+        "cities": [
+            "Ugoofaaru"
+        ]
+    },
+    {
+        "name": "Shaviyani",
+        "cities": [
+            "Funadhoo"
+        ]
+    },
+    {
+        "name": "South",
+        "cities": []
+    },
+    {
+        "name": "South Central",
+        "cities": [
+            "Mahibadhoo"
+        ]
+    },
+    {
+        "name": "Thaa",
+        "cities": [
+            "Veymandoo"
+        ]
+    },
+    {
+        "name": "Upper South",
+        "cities": []
+    },
+    {
+        "name": "Vaavu",
+        "cities": [
+            "Felidhoo"
+        ]
+    }
+]

@@ -1,0 +1,377 @@
+[
+    {
+        "name": "Abim"
+    },
+    {
+        "name": "Adjumani"
+    },
+    {
+        "name": "Agago"
+    },
+    {
+        "name": "Alebtong"
+    },
+    {
+        "name": "Amolatar"
+    },
+    {
+        "name": "Amudat"
+    },
+    {
+        "name": "Amuria"
+    },
+    {
+        "name": "Amuru"
+    },
+    {
+        "name": "Apac"
+    },
+    {
+        "name": "Arua"
+    },
+    {
+        "name": "Budaka"
+    },
+    {
+        "name": "Bududa"
+    },
+    {
+        "name": "Bugiri"
+    },
+    {
+        "name": "Buhweju"
+    },
+    {
+        "name": "Buikwe"
+    },
+    {
+        "name": "Bukedea"
+    },
+    {
+        "name": "Bukomansimbi"
+    },
+    {
+        "name": "Bukwo"
+    },
+    {
+        "name": "Bulambuli"
+    },
+    {
+        "name": "Buliisa"
+    },
+    {
+        "name": "Bundibugyo"
+    },
+    {
+        "name": "Bunyangabu"
+    },
+    {
+        "name": "Bushenyi"
+    },
+    {
+        "name": "Busia"
+    },
+    {
+        "name": "Butaleja"
+    },
+    {
+        "name": "Butambala"
+    },
+    {
+        "name": "Butebo"
+    },
+    {
+        "name": "Buvuma"
+    },
+    {
+        "name": "Buyende"
+    },
+    {
+        "name": "Central"
+    },
+    {
+        "name": "Dokolo"
+    },
+    {
+        "name": "Eastern"
+    },
+    {
+        "name": "Gomba"
+    },
+    {
+        "name": "Gulu"
+    },
+    {
+        "name": "Ibanda"
+    },
+    {
+        "name": "Iganga"
+    },
+    {
+        "name": "Isingiro"
+    },
+    {
+        "name": "Jinja"
+    },
+    {
+        "name": "Kaabong"
+    },
+    {
+        "name": "Kabale"
+    },
+    {
+        "name": "Kabarole"
+    },
+    {
+        "name": "Kaberamaido"
+    },
+    {
+        "name": "Kagadi"
+    },
+    {
+        "name": "Kakumiro"
+    },
+    {
+        "name": "Kalangala"
+    },
+    {
+        "name": "Kaliro"
+    },
+    {
+        "name": "Kalungu"
+    },
+    {
+        "name": "Kampala"
+    },
+    {
+        "name": "Kamuli"
+    },
+    {
+        "name": "Kamwenge"
+    },
+    {
+        "name": "Kanungu"
+    },
+    {
+        "name": "Kapchorwa"
+    },
+    {
+        "name": "Kasese"
+    },
+    {
+        "name": "Katakwi"
+    },
+    {
+        "name": "Kayunga"
+    },
+    {
+        "name": "Kibaale"
+    },
+    {
+        "name": "Kiboga"
+    },
+    {
+        "name": "Kibuku"
+    },
+    {
+        "name": "Kiruhura"
+    },
+    {
+        "name": "Kiryandongo"
+    },
+    {
+        "name": "Kisoro"
+    },
+    {
+        "name": "Kitgum"
+    },
+    {
+        "name": "Koboko"
+    },
+    {
+        "name": "Kole"
+    },
+    {
+        "name": "Kotido"
+    },
+    {
+        "name": "Kumi"
+    },
+    {
+        "name": "Kween"
+    },
+    {
+        "name": "Kyankwanzi"
+    },
+    {
+        "name": "Kyegegwa"
+    },
+    {
+        "name": "Kyenjojo"
+    },
+    {
+        "name": "Kyotera"
+    },
+    {
+        "name": "Lamwo"
+    },
+    {
+        "name": "Lira"
+    },
+    {
+        "name": "Luuka"
+    },
+    {
+        "name": "Luwero"
+    },
+    {
+        "name": "Lwengo"
+    },
+    {
+        "name": "Lyantonde"
+    },
+    {
+        "name": "Manafwa"
+    },
+    {
+        "name": "Maracha"
+    },
+    {
+        "name": "Masaka"
+    },
+    {
+        "name": "Masindi"
+    },
+    {
+        "name": "Mayuge"
+    },
+    {
+        "name": "Mbale"
+    },
+    {
+        "name": "Mbarara"
+    },
+    {
+        "name": "Mitooma"
+    },
+    {
+        "name": "Mityana"
+    },
+    {
+        "name": "Moroto"
+    },
+    {
+        "name": "Moyo"
+    },
+    {
+        "name": "Mpigi"
+    },
+    {
+        "name": "Mubende"
+    },
+    {
+        "name": "Mukono"
+    },
+    {
+        "name": "Nakapiripirit"
+    },
+    {
+        "name": "Nakaseke"
+    },
+    {
+        "name": "Nakasongola"
+    },
+    {
+        "name": "Namayingo"
+    },
+    {
+        "name": "Namisindwa"
+    },
+    {
+        "name": "Namutumba"
+    },
+    {
+        "name": "Napak"
+    },
+    {
+        "name": "Nebbi"
+    },
+    {
+        "name": "Ngora"
+    },
+    {
+        "name": "Northern"
+    },
+    {
+        "name": "Ntoroko"
+    },
+    {
+        "name": "Ntungamo"
+    },
+    {
+        "name": "Nwoya"
+    },
+    {
+        "name": "Omoro"
+    },
+    {
+        "name": "Otuke"
+    },
+    {
+        "name": "Oyam"
+    },
+    {
+        "name": "Pader"
+    },
+    {
+        "name": "Pakwach"
+    },
+    {
+        "name": "Pallisa"
+    },
+    {
+        "name": "Rakai"
+    },
+    {
+        "name": "Rubanda"
+    },
+    {
+        "name": "Rubirizi"
+    },
+    {
+        "name": "Rukiga"
+    },
+    {
+        "name": "Rukungiri"
+    },
+    {
+        "name": "Sembabule"
+    },
+    {
+        "name": "Serere"
+    },
+    {
+        "name": "Sheema"
+    },
+    {
+        "name": "Sironko"
+    },
+    {
+        "name": "Soroti"
+    },
+    {
+        "name": "Tororo"
+    },
+    {
+        "name": "Wakiso"
+    },
+    {
+        "name": "Western"
+    },
+    {
+        "name": "Yumbe"
+    },
+    {
+        "name": "Zombo"
+    }
+]

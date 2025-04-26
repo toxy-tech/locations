@@ -1,0 +1,635 @@
+[
+    {
+        "name": "Ajdovščina"
+    },
+    {
+        "name": "Ankaran"
+    },
+    {
+        "name": "Apače"
+    },
+    {
+        "name": "Beltinci"
+    },
+    {
+        "name": "Benedikt"
+    },
+    {
+        "name": "Bistrica ob Sotli"
+    },
+    {
+        "name": "Bled"
+    },
+    {
+        "name": "Bloke"
+    },
+    {
+        "name": "Bohinj"
+    },
+    {
+        "name": "Borovnica"
+    },
+    {
+        "name": "Bovec"
+    },
+    {
+        "name": "Braslovče"
+    },
+    {
+        "name": "Brda"
+    },
+    {
+        "name": "Brežice"
+    },
+    {
+        "name": "Brezovica"
+    },
+    {
+        "name": "Cankova"
+    },
+    {
+        "name": "Celje"
+    },
+    {
+        "name": "Cerklje na Gorenjskem"
+    },
+    {
+        "name": "Cerknica"
+    },
+    {
+        "name": "Cerkno"
+    },
+    {
+        "name": "Cerkvenjak"
+    },
+    {
+        "name": "Cirkulane"
+    },
+    {
+        "name": "Črenšovci"
+    },
+    {
+        "name": "Črna na Koroškem"
+    },
+    {
+        "name": "Črnomelj"
+    },
+    {
+        "name": "Destrnik"
+    },
+    {
+        "name": "Divača"
+    },
+    {
+        "name": "Dobje"
+    },
+    {
+        "name": "Dobrepolje"
+    },
+    {
+        "name": "Dobrna"
+    },
+    {
+        "name": "Dobrova–Polhov Gradec"
+    },
+    {
+        "name": "Dobrovnik"
+    },
+    {
+        "name": "Dol pri Ljubljani"
+    },
+    {
+        "name": "Dolenjske Toplice"
+    },
+    {
+        "name": "Domžale"
+    },
+    {
+        "name": "Dornava"
+    },
+    {
+        "name": "Dravograd"
+    },
+    {
+        "name": "Duplek"
+    },
+    {
+        "name": "Gorenja Vas–Poljane"
+    },
+    {
+        "name": "Gorišnica"
+    },
+    {
+        "name": "Gorje"
+    },
+    {
+        "name": "Gornja Radgona"
+    },
+    {
+        "name": "Gornji Grad"
+    },
+    {
+        "name": "Gornji Petrovci"
+    },
+    {
+        "name": "Grad"
+    },
+    {
+        "name": "Grosuplje"
+    },
+    {
+        "name": "Hajdina"
+    },
+    {
+        "name": "Hoče–Slivnica"
+    },
+    {
+        "name": "Hodoš"
+    },
+    {
+        "name": "Horjul"
+    },
+    {
+        "name": "Hrastnik"
+    },
+    {
+        "name": "Hrpelje–Kozina"
+    },
+    {
+        "name": "Idrija"
+    },
+    {
+        "name": "Ig"
+    },
+    {
+        "name": "Ilirska Bistrica"
+    },
+    {
+        "name": "Ivančna Gorica"
+    },
+    {
+        "name": "Izola"
+    },
+    {
+        "name": "Jesenice"
+    },
+    {
+        "name": "Jezersko"
+    },
+    {
+        "name": "Juršinci"
+    },
+    {
+        "name": "Kamnik"
+    },
+    {
+        "name": "Kanal ob Soči"
+    },
+    {
+        "name": "Kidričevo"
+    },
+    {
+        "name": "Kobarid"
+    },
+    {
+        "name": "Kobilje"
+    },
+    {
+        "name": "Kočevje"
+    },
+    {
+        "name": "Komen"
+    },
+    {
+        "name": "Komenda"
+    },
+    {
+        "name": "Koper"
+    },
+    {
+        "name": "Kostanjevica na Krki"
+    },
+    {
+        "name": "Kostel"
+    },
+    {
+        "name": "Kozje"
+    },
+    {
+        "name": "Kranj"
+    },
+    {
+        "name": "Kranjska Gora"
+    },
+    {
+        "name": "Križevci"
+    },
+    {
+        "name": "Krško"
+    },
+    {
+        "name": "Kungota"
+    },
+    {
+        "name": "Kuzma"
+    },
+    {
+        "name": "Laško"
+    },
+    {
+        "name": "Lenart"
+    },
+    {
+        "name": "Lendava"
+    },
+    {
+        "name": "Litija"
+    },
+    {
+        "name": "Ljubljana"
+    },
+    {
+        "name": "Ljubno"
+    },
+    {
+        "name": "Ljutomer"
+    },
+    {
+        "name": "Log–Dragomer"
+    },
+    {
+        "name": "Logatec"
+    },
+    {
+        "name": "Loška Dolina"
+    },
+    {
+        "name": "Loški Potok"
+    },
+    {
+        "name": "Lovrenc na Pohorju"
+    },
+    {
+        "name": "Luče"
+    },
+    {
+        "name": "Lukovica"
+    },
+    {
+        "name": "Majšperk"
+    },
+    {
+        "name": "Makole"
+    },
+    {
+        "name": "Maribor"
+    },
+    {
+        "name": "Markovci"
+    },
+    {
+        "name": "Medvode"
+    },
+    {
+        "name": "Mengeš"
+    },
+    {
+        "name": "Metlika"
+    },
+    {
+        "name": "Mežica"
+    },
+    {
+        "name": "Miklavž na Dravskem Polju"
+    },
+    {
+        "name": "Miren–Kostanjevica"
+    },
+    {
+        "name": "Mirna"
+    },
+    {
+        "name": "Mirna Peč"
+    },
+    {
+        "name": "Mislinja"
+    },
+    {
+        "name": "Mokronog–Trebelno"
+    },
+    {
+        "name": "Moravče"
+    },
+    {
+        "name": "Moravske Toplice"
+    },
+    {
+        "name": "Mozirje"
+    },
+    {
+        "name": "Murska Sobota"
+    },
+    {
+        "name": "Muta"
+    },
+    {
+        "name": "Naklo"
+    },
+    {
+        "name": "Nazarje"
+    },
+    {
+        "name": "Nova Gorica"
+    },
+    {
+        "name": "Novo Mesto"
+    },
+    {
+        "name": "Odranci"
+    },
+    {
+        "name": "Oplotnica"
+    },
+    {
+        "name": "Ormož"
+    },
+    {
+        "name": "Osilnica"
+    },
+    {
+        "name": "Pesnica"
+    },
+    {
+        "name": "Piran"
+    },
+    {
+        "name": "Pivka"
+    },
+    {
+        "name": "Podčetrtek"
+    },
+    {
+        "name": "Podlehnik"
+    },
+    {
+        "name": "Podvelka"
+    },
+    {
+        "name": "Poljčane"
+    },
+    {
+        "name": "Polzela"
+    },
+    {
+        "name": "Postojna"
+    },
+    {
+        "name": "Prebold"
+    },
+    {
+        "name": "Preddvor"
+    },
+    {
+        "name": "Prevalje"
+    },
+    {
+        "name": "Ptuj"
+    },
+    {
+        "name": "Puconci"
+    },
+    {
+        "name": "Rače–Fram"
+    },
+    {
+        "name": "Radeče"
+    },
+    {
+        "name": "Radenci"
+    },
+    {
+        "name": "Radlje ob Dravi"
+    },
+    {
+        "name": "Radovljica"
+    },
+    {
+        "name": "Ravne na Koroškem"
+    },
+    {
+        "name": "Razkrižje"
+    },
+    {
+        "name": "Rečica ob Savinji"
+    },
+    {
+        "name": "Renče–Vogrsko"
+    },
+    {
+        "name": "Ribnica"
+    },
+    {
+        "name": "Ribnica na Pohorju"
+    },
+    {
+        "name": "Rogaška Slatina"
+    },
+    {
+        "name": "Rogašovci"
+    },
+    {
+        "name": "Rogatec"
+    },
+    {
+        "name": "Ruše"
+    },
+    {
+        "name": "Šalovci"
+    },
+    {
+        "name": "Selnica ob Dravi"
+    },
+    {
+        "name": "Semič"
+    },
+    {
+        "name": "Šempeter–Vrtojba"
+    },
+    {
+        "name": "Šenčur"
+    },
+    {
+        "name": "Šentilj"
+    },
+    {
+        "name": "Šentjernej"
+    },
+    {
+        "name": "Šentjur"
+    },
+    {
+        "name": "Šentrupert"
+    },
+    {
+        "name": "Sevnica"
+    },
+    {
+        "name": "Sežana"
+    },
+    {
+        "name": "Škocjan"
+    },
+    {
+        "name": "Škofja Loka"
+    },
+    {
+        "name": "Škofljica"
+    },
+    {
+        "name": "Slovenj Gradec"
+    },
+    {
+        "name": "Slovenska Bistrica"
+    },
+    {
+        "name": "Slovenske Konjice"
+    },
+    {
+        "name": "Šmarje pri Jelšah"
+    },
+    {
+        "name": "Šmarješke Toplice"
+    },
+    {
+        "name": "Šmartno ob Paki"
+    },
+    {
+        "name": "Šmartno pri Litiji"
+    },
+    {
+        "name": "Sodražica"
+    },
+    {
+        "name": "Solčava"
+    },
+    {
+        "name": "Šoštanj"
+    },
+    {
+        "name": "Središče ob Dravi"
+    },
+    {
+        "name": "Starše"
+    },
+    {
+        "name": "Štore"
+    },
+    {
+        "name": "Straža"
+    },
+    {
+        "name": "Sveta Ana"
+    },
+    {
+        "name": "Sveta Trojica v Slovenskih Goricah"
+    },
+    {
+        "name": "Sveti Andraž v Slovenskih Goricah"
+    },
+    {
+        "name": "Sveti Jurij ob Ščavnici"
+    },
+    {
+        "name": "Sveti Jurij v Slovenskih Goricah"
+    },
+    {
+        "name": "Sveti Tomaž"
+    },
+    {
+        "name": "Tabor"
+    },
+    {
+        "name": "Tišina"
+    },
+    {
+        "name": "Tolmin"
+    },
+    {
+        "name": "Trbovlje"
+    },
+    {
+        "name": "Trebnje"
+    },
+    {
+        "name": "Trnovska Vas"
+    },
+    {
+        "name": "Tržič"
+    },
+    {
+        "name": "Trzin"
+    },
+    {
+        "name": "Turnišče"
+    },
+    {
+        "name": "Velika Polana"
+    },
+    {
+        "name": "Velike Lašče"
+    },
+    {
+        "name": "Veržej"
+    },
+    {
+        "name": "Videm"
+    },
+    {
+        "name": "Vipava"
+    },
+    {
+        "name": "Vitanje"
+    },
+    {
+        "name": "Vodice"
+    },
+    {
+        "name": "Vojnik"
+    },
+    {
+        "name": "Vransko"
+    },
+    {
+        "name": "Vrhnika"
+    },
+    {
+        "name": "Vuzenica"
+    },
+    {
+        "name": "Zagorje ob Savi"
+    },
+    {
+        "name": "Žalec"
+    },
+    {
+        "name": "Zavrč"
+    },
+    {
+        "name": "Železniki"
+    },
+    {
+        "name": "Žetale"
+    },
+    {
+        "name": "Žiri"
+    },
+    {
+        "name": "Žirovnica"
+    },
+    {
+        "name": "Zreče"
+    },
+    {
+        "name": "Žužemberk"
+    }
+]

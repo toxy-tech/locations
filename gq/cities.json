@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Annobón",
+        "cities": [
+            "San Antonio de Palé"
+        ]
+    },
+    {
+        "name": "Bioko Norte",
+        "cities": [
+            "Malabo",
+            "Rebola",
+            "Santiago de Baney"
+        ]
+    },
+    {
+        "name": "Bioko Sur",
+        "cities": [
+            "Luba"
+        ]
+    },
+    {
+        "name": "Centro Sur",
+        "cities": [
+            "Acurenam",
+            "Bicurga",
+            "Evinayong"
+        ]
+    },
+    {
+        "name": "Insular",
+        "cities": []
+    },
+    {
+        "name": "Kié-Ntem",
+        "cities": [
+            "Ebebiyin",
+            "Mikomeseng",
+            "Ncue",
+            "Nsang"
+        ]
+    },
+    {
+        "name": "Litoral",
+        "cities": [
+            "Bata",
+            "Bitica",
+            "Cogo",
+            "Machinda",
+            "Mbini",
+            "Río Campo"
+        ]
+    },
+    {
+        "name": "Río Muni",
+        "cities": []
+    },
+    {
+        "name": "Wele-Nzas",
+        "cities": [
+            "Aconibe",
+            "Añisoc",
+            "Ayene",
+            "Mengomeyén",
+            "Mongomo",
+            "Nsok"
+        ]
+    }
+]

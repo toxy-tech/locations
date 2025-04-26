@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Capital",
+        "cities": [
+            "Álftanes",
+            "Garðabær",
+            "Hafnarfjörður",
+            "Kjósarhreppur",
+            "Kópavogur",
+            "Mosfellsbaer",
+            "Mosfellsbær",
+            "Reykjavík",
+            "Seltjarnarnes"
+        ]
+    },
+    {
+        "name": "Eastern",
+        "cities": [
+            "Borgarfjarðarhreppur",
+            "Breiðdalshreppur",
+            "Egilsstaðir",
+            "Eskifjörður",
+            "Fjarðabyggð",
+            "Fljótsdalshérað",
+            "Fljótsdalshreppur",
+            "Höfn",
+            "Neskaupstaður",
+            "Reyðarfjörður"
+        ]
+    },
+    {
+        "name": "Northeastern",
+        "cities": [
+            "Akureyri",
+            "Dalvík",
+            "Dalvíkurbyggð",
+            "Eyjafjarðarsveit",
+            "Fjallabyggð",
+            "Grýtubakkahreppur",
+            "Hörgársveit",
+            "Húsavík",
+            "Langanesbyggð",
+            "Laugar",
+            "Siglufjörður",
+            "Skútustaðahreppur",
+            "Svalbarðsstrandarhreppur",
+            "Tjörneshreppur",
+            "Þingeyjarsveit"
+        ]
+    },
+    {
+        "name": "Northwestern",
+        "cities": [
+            "Akrahreppur",
+            "Húnaþing Vestra",
+            "Sauðárkrókur",
+            "Skagabyggð",
+            "Sveitarfélagið Skagafjörður"
+        ]
+    },
+    {
+        "name": "Southern",
+        "cities": [
+            "Ásahreppur",
+            "Bláskógabyggð",
+            "Flóahreppur",
+            "Grímsnes- og Grafningshreppur",
+            "Hrunamannahreppur",
+            "Hveragerði",
+            "Mýrdalshreppur",
+            "Selfoss",
+            "Skaftárhreppur",
+            "Skeiða- og Gnúpverjahreppur",
+            "Vestmannaeyjabær",
+            "Vestmannaeyjar",
+            "Þorlákshöfn"
+        ]
+    },
+    {
+        "name": "Southern Peninsula",
+        "cities": [
+            "Garður",
+            "Grindavík",
+            "Keflavík",
+            "Reykjanesbær",
+            "Sandgerði",
+            "Vogar"
+        ]
+    },
+    {
+        "name": "Western",
+        "cities": [
+            "Akranes",
+            "Borgarbyggð",
+            "Borgarnes",
+            "Dalabyggð",
+            "Eyja- og Miklaholtshreppur",
+            "Helgafellssveit",
+            "Hvalfjarðarsveit",
+            "Ólafsvík",
+            "Skorradalshreppur",
+            "Snæfellsbær",
+            "Stykkishólmur"
+        ]
+    },
+    {
+        "name": "Westfjords",
+        "cities": [
+            "Ísafjarðarbær",
+            "Ísafjörður",
+            "Reykhólahreppur",
+            "Strandabyggð",
+            "Tálknafjarðarhreppur"
+        ]
+    }
+]

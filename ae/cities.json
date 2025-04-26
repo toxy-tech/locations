@@ -1,0 +1,76 @@
+[
+    {
+        "name": "Abu Dhabi",
+        "cities": [
+            "Abu Dhabi Island and Internal Islands City",
+            "Abu Dhabi Municipality",
+            "Al Ain City",
+            "Al Ain Municipality",
+            "Al Dhafra",
+            "Al Shamkhah City",
+            "Bani Yas City",
+            "Khalifah A City",
+            "Musaffah",
+            "Muzayri‘",
+            "Ruwais",
+            "Zayed City"
+        ]
+    },
+    {
+        "name": "Ajman",
+        "cities": [
+            "Ajman",
+            "Ajman City",
+            "Manama",
+            "Masfout"
+        ]
+    },
+    {
+        "name": "Dubai",
+        "cities": [
+            "Dubai"
+        ]
+    },
+    {
+        "name": "Fujairah",
+        "cities": [
+            "Al Fujairah City",
+            "Al Fujairah Municipality",
+            "Dibba Al Fujairah Municipality",
+            "Dibba Al-Fujairah",
+            "Dibba Al-Hisn",
+            "Reef Al Fujairah City"
+        ]
+    },
+    {
+        "name": "Ras al-Khaimah",
+        "cities": [
+            "Ras Al Khaimah",
+            "Ras Al Khaimah City"
+        ]
+    },
+    {
+        "name": "Sharjah",
+        "cities": [
+            "Adh Dhayd",
+            "Al Batayih",
+            "Al Hamriyah",
+            "Al Madam",
+            "Dhaid",
+            "Dibba Al Hesn",
+            "Kalba",
+            "Khawr Fakkān",
+            "Khor Fakkan",
+            "Milehah",
+            "Murbaḩ",
+            "Sharjah"
+        ]
+    },
+    {
+        "name": "Umm al-Quwain",
+        "cities": [
+            "Umm AL Quwain",
+            "Umm Al Quwain City"
+        ]
+    }
+]

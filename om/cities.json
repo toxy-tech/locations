@@ -1,0 +1,128 @@
+[
+    {
+        "name": "Ad Dakhiliyah",
+        "cities": [
+            "Adam",
+            "Bahlā’",
+            "Bidbid",
+            "Izkī",
+            "Manah",
+            "Nizwá",
+            "Samā’il"
+        ]
+    },
+    {
+        "name": "Ad Dhahirah",
+        "cities": [
+            "‘Ibrī",
+            "Yanqul",
+            "Dhank"
+        ]
+    },
+    {
+        "name": "Al Batinah North",
+        "cities": [
+            "Al Khābūrah",
+            "As Suwayq",
+            "Liwá",
+            "Şaḩam",
+            "Shināş",
+            "Sohar"
+        ]
+    },
+    {
+        "name": "Al Batinah South",
+        "cities": [
+            "Barkā’",
+            "Al-Musannah",
+            "Nakhal",
+            "Wadi Al Maawil",
+            "Al Awabi",
+            "Rustaq"
+        ]
+    },
+    {
+        "name": "Al Buraimi",
+        "cities": [
+            "Al Buraymī",
+            "Mahdah",
+            "As Sunaynah"
+        ]
+    },
+    {
+        "name": "Al Wusta",
+        "cities": [
+            "Haymā’",
+            "Duqm",
+            "Mahūt",
+            "Al Jazir"
+        ]
+    },
+    {
+        "name": "Ash Sharqiyah North",
+        "cities": [
+            "Ibra",
+            "Al Mudhaibi",
+            "Bidiya",
+            "Dima Wattayeen"
+        ]
+    },
+    {
+        "name": "Ash Sharqiyah South",
+        "cities": [
+            "Sur",
+            "Al Kamil Wal Wafi",
+            "Jalan Bani Bu Hassan",
+            "Jalan Bani Bu Ali",
+            "Masirah"
+        ]
+    },
+    {
+        "name": "Dhofar",
+        "cities": [
+            "Şalālah",
+            "Taqah",
+            "Mirbat",
+            "Rakhyut",
+            "Thumrait",
+            "Sadah",
+            "Shalim and the Hallaniyat Islands",
+            "Mughsayl"
+        ]
+    },
+    {
+        "name": "Musandam",
+        "cities": [
+            "Khasab",
+            "Dibba",
+            "Bukha",
+            "Madha"
+        ]
+    },
+    {
+        "name": "Muscat",
+        "cities": [
+            "Muscat",
+            "Muttrah",
+            "Bawshar",
+            "Seeb",
+            "Al Amrat",
+            "Al Khuwair",
+            "Al Ghubrah",
+            "Qurum",
+            "Ruwi",
+            "Wadi Kabir",
+            "Al Azaiba",
+            "Al Hail North",
+            "Al Hail South",
+            "Ghala",
+            "Amerat Heights",
+            "Al Mawaleh North",
+            "Al Mawaleh South",
+            "Mabela North",
+            "Mabela South",
+            "Wadi Adai",
+            "Wattayah"
+        ]
+    }
+]
